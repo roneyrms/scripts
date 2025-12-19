@@ -10,7 +10,7 @@
 .NOTES
     Autor: RMSTECH
     Versão: 3.0 ULTRA
-    Data: 19/12/2024
+    Data: 19/12/2025
     Requer: Privilégios de Administrador
 
 .COPYRIGHT
@@ -29,7 +29,7 @@ function Show-Banner {
     Write-Host "██                                                                              ██" -ForegroundColor Green
     Write-Host "██                    OTIMIZADOR DE SISTEMA ULTRA                               ██" -ForegroundColor White
     Write-Host "██                      Performance Máxima - RMSTECH                            ██" -ForegroundColor White
-    Write-Host "██                          © 2024 RMSTECH                                      ██" -ForegroundColor Gray
+    Write-Host "██                          © 2025 RMSTECH                                      ██" -ForegroundColor Gray
     Write-Host "██                                                                              ██" -ForegroundColor Green
     Write-Host "████████████████████████████████████████████████████████████████████████████████" -ForegroundColor Green
     Write-Host ""
@@ -871,7 +871,7 @@ function Main {
                 Write-Host "████████████████████████████████████████████████████████████████████████████████" -ForegroundColor Green
                 Write-Host "██                                                                              ██" -ForegroundColor Green
                 Write-Host "██             Obrigado por usar o Otimizador de Sistema ULTRA!                 ██" -ForegroundColor White
-                Write-Host "██                          © 2024 RMSTECH                                      ██" -ForegroundColor Gray
+                Write-Host "██                          © 2025 RMSTECH                                      ██" -ForegroundColor Gray
                 Write-Host "██                                                                              ██" -ForegroundColor Green
                 Write-Host "████████████████████████████████████████████████████████████████████████████████" -ForegroundColor Green
                 Write-Host ""
@@ -889,3 +889,4 @@ function Main {
 
 # Executa o script
 Main
+
