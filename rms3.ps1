@@ -35,7 +35,7 @@ function Show-Banner {
     Write-Host "██                                                                              ██" -ForegroundColor Green
     Write-Host "██                           RMS OPTIMIZER ULTRA                                ██" -ForegroundColor White
     Write-Host "██                      Sistema Avançado de Otimização                          ██" -ForegroundColor White
-    Write-Host "██                          © 2024 RMSTECH                                      ██" -ForegroundColor Gray
+    Write-Host "██                          © 2025 RMSTECH                                      ██" -ForegroundColor Gray
     Write-Host "██                                                                              ██" -ForegroundColor Green
     Write-Host "████████████████████████████████████████████████████████████████████████████████" -ForegroundColor Green
     Write-Host ""
@@ -1009,7 +1009,7 @@ function Main {
                 Write-Host "████████████████████████████████████████████████████████████████████████████████" -ForegroundColor Green
                 Write-Host "██                                                                              ██" -ForegroundColor Green
                 Write-Host "██                     Obrigado por usar o RMS Optimizer ULTRA!                 ██" -ForegroundColor White
-                Write-Host "██                          © 2024 RMSTECH                                      ██" -ForegroundColor Gray
+                Write-Host "██                          © 2025 RMSTECH                                      ██" -ForegroundColor Gray
                 Write-Host "██                                                                              ██" -ForegroundColor Green
                 Write-Host "████████████████████████████████████████████████████████████████████████████████" -ForegroundColor Green
                 Write-Host ""
@@ -1029,3 +1029,4 @@ function Main {
 
 # Executa o script
 Main
+
